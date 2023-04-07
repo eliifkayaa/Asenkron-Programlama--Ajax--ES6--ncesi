@@ -1,0 +1,19 @@
+[
+    {
+        "name" : "Elif Gökçe",
+        "department" : "Bilişim",
+        "salary" : 3500
+    },
+    
+    {
+        "name" : "Ali Burak Gökçe",
+        "department" : "Bilişim",
+        "salary" : 4000
+    },
+    
+    {
+        "name" : "Esra Kaya",
+        "department" : "Pazarlama",
+        "salary" : 5000
+    }
+]
